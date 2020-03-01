@@ -7,3 +7,10 @@ W - прыжок
 A - влево
 D - вправо
 SPACE - выстрел
+
+ክብር ይሁን Яндекс,
+ክብር ይሁን Рэмбо,
+酒を飲むと打ち解けて来る
+Watashi ga gakkō ni ita toki, 
+sensei wa shibashiba watashi ga dendō isu de owaru to iimashita
+©Сильвестр Сталоне-Сама
